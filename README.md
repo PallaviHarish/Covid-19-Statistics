@@ -1,1 +1,1 @@
-Using API's to develop Covid-19-Statistics
+Using API to develop Covid-19-Statistics
