@@ -1,4 +1,4 @@
-Using API to develop Covid-19-Statistics website
+Using API to develop Covid-19-Statistics Website
 
 website - https://pallaviharish.github.io/Covid-19-Statistics/
 
